@@ -1,4 +1,4 @@
-How to run:
+### How to run:
 
 1) First compile and run the server file in server folder (./server/server.c)
 	gcc server.c
